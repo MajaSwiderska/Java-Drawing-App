@@ -14,9 +14,6 @@ A simple and interactive painting application built with **Java Swing**. Users c
 - Object-Oriented Programming
 - Graphics & Event Handling
 
-## Screenshot
-*(Add a screenshot of your app here)*
-
 ## How to Run
 1. Clone the repository:  
    ```bash
